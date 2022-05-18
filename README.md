@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 --------------------------------------------------------------------------------------------------------------- 
 ### OS | Languages | Tools | Dev. Kits
 
+<center>
 <img align="left" alt="OS"  height="45px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/centos-debian-ubuntu.png" />
 
 <img align="left" alt="HTML5 | JavaScript | CSS3"  height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/js.png" />
@@ -46,9 +47,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Nordic" height="37px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/nordic.png" />
 <img align="left" alt="SiliconLab" height="35px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/si.png" />
 
-<img align="left" alt="Cobham" height="20px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/cobham.png" />
-<img align="left" alt="Multitech" height="20px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/mul.png" />
-
+<img align="center" alt="Cobham" height="20px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/cobham.png" />
+<img align="center" alt="Multitech" height="20px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/mul.png" />
+</center>
 <!--
 ---------------------------------------------------------------------------------------------------------------
 ### Connect with me:
