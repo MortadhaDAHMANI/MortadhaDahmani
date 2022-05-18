@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/term.png" />
 
 <img align="left" alt="Pi" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/pi.png" />
-<img align="left" alt="STM32" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/stm32.png" />
-<img align="left" alt="ST" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/st2.jpeg" />
-<img align="left" alt="Nordic" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/nordic.png" />
+<img align="left" alt="STM32" height="36px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/stm32.png" />
+<img align="left" alt="ST" height="37px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/st2.jpeg" />
+<img align="left" alt="Nordic" height="38px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/nordic.png" />
 <img align="left" alt="SiliconLab" height="35px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/si.png" />
 
 <img align="left" alt="Cobham" height="20px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/cobham.png" />
