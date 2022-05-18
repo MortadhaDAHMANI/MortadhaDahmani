@@ -16,26 +16,24 @@ Here are some ideas to get you started:
 -->
 
 
-### I'm Mortadha a Hardware Expert and a Full-Stack Software [Backend|Frontend Developer]
-- 🔭 I’m currently - Technical Project Manager of <a align="center" href="https://www.network-lab.eu/">NetworkLab EU</a>  ( _an Educational game players based for language learners_)
-- 🌱 I’m currently learning SpringBoot , basics of Devops & microservice architecture 
-- 📫 Reach me on :  <a align="center" href="https://www.linkedin.com/in/mortadhadahmani/"><img align="center" alt="LinkedIn"  src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/in.png" /></a>
+### I'm Mortadha a Hardware Expert and a #### Full-Stack Software [Backend|Frontend Developer]
+- 🔭 I’m currently - Technical Project Manager of <a align="center" href="https://www.network-lab.eu/">NetworkLab EU</a> ( _Hardware Incubator_)
+- 🌱 I’m currently learning AI , basics of Devops & microservice architecture 
+- 📫 Reach me on :  <a align="center" href="https://www.linkedin.com/in/mortadhadahmani/"><img align="center" alt="LinkedIn"  src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/in2.png" /></a>
 
 --------------------------------------------------------------------------------------------------------------- 
 ### Languages and Tools:
 
+<img align="left" alt="HTML5 | JavaScript | CSS3"  height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/js.png" />
+<img align="left" alt="Python" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/python.png" />
+<img align="left" alt="Java" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/java.png" />
+<img align="left" alt="MySQL" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/mysql.png" />
 
 
-<img align="left" alt="HTML5 | JavaScript | CSS3"  width="26px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/js.png" />
-<img align="left" alt="Python" width="25px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/python.png" />
-<img align="left" alt="Java" width="25px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/java.png" />
-<img align="left" alt="MySQL" width="25px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/mysql.png" />
-
-
-<img align="left" alt="Visual Studio Code" width="25px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/vscode.png" />
-<img align="left" alt="Git" width="25px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/git.png" />
-<img align="left" alt="GitHub" width="25px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/github.png" />
-<img align="left" alt="Terminal" width="25px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/term.png" />
+<img align="left" alt="Visual Studio Code" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/vscode.png" />
+<img align="left" alt="Git" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/git.png" />
+<img align="left" alt="GitHub" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/github.png" />
+<img align="left" alt="Terminal" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/term.png" />
 
 
 
