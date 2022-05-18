@@ -17,39 +17,39 @@ Here are some ideas to get you started:
 
 
 ### I'm Mortadha a Hardware Expert and a #### Full-Stack Software [Backend|Frontend Developer]
-- 🔭 I’m currently - Technical Project Manager of <a align="center" href="https://www.network-lab.eu/">NetworkLab EU</a> ( _Hardware Incubator_)
+- 🔭 I’m currently - Technical Project Manager of <a align="center" href="https://www.network-lab.eu/">NetworkLab EU</a> (_Hardware Incubator_)
 - 🌱 I’m currently learning AI , basics of Devops & microservice architecture 
-- 📫 Reach me on :  <a align="center" href="https://www.linkedin.com/in/mortadhadahmani/"><img align="center" alt="LinkedIn"  src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/in2.png" /></a>
+- 📫 Reach me on LinkedIn! <a align="center" href="https://www.linkedin.com/in/mortadhadahmani/"><br><img align="center" alt="LinkedIn" height="40px"  src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/in2.jpg" /></a>
 
 --------------------------------------------------------------------------------------------------------------- 
-### Languages and Tools:
+### OS | Languages | Tools | Dev. Kits:
+
+<img align="left" alt="OS"  height="45px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/centos-debian-ubuntu.png" />
 
 <img align="left" alt="HTML5 | JavaScript | CSS3"  height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/js.png" />
 <img align="left" alt="Python" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/python.png" />
+<img align="left" alt="MicroPython" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/upython.png" />
 <img align="left" alt="Java" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/java.png" />
 <img align="left" alt="MySQL" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/mysql.png" />
-
+<img align="left" alt="NodeJS" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/nodejs.png" />
+<img align="left" alt="InfluxDB" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/influxdb.png" />
+<img align="left" alt="Grafana" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/grafana.png" />
 
 <img align="left" alt="Visual Studio Code" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/vscode.png" />
 <img align="left" alt="Git" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/git.png" />
 <img align="left" alt="GitHub" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/github.png" />
 <img align="left" alt="Terminal" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/term.png" />
 
+<img align="left" alt="Pi" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/pi.png" />
+<img align="left" alt="STM32" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/stm32.png" />
+<img align="left" alt="ST" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/st2.jpeg" />
+<img align="left" alt="Multitech" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/mul.png" />
+<img align="left" alt="Nordic" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/nordic.png" />
+<img align="left" alt="SiliconLab" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/si.png" />
 
+<img align="left" alt="Cobham" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/cobham.png" />
 
 <!--
-**hamed-7/hamed-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 ---------------------------------------------------------------------------------------------------------------
 ### Connect with me:
 
