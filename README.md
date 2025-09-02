@@ -41,6 +41,7 @@ Here are some ideas to get you started:
   
   <img align="left" alt="Visual Studio Code" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/vscode.png" />
   <img align="left" alt="Git" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/git.png" />
+  <br><br><br>
   <img align="left" alt="GitHub" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/github.png" />
   <!--img align="left" alt="Terminal" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/term.png" /-->
   <img align="left" alt="Pi" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/pi.png" />
