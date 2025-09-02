@@ -2,7 +2,7 @@
 
 <!--
 **MortadhaDAHMANI/MortadhaDahmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- I'm currently learning AI, basics of Devops & microservice architecture 
 Here are some ideas to get you started:
 
 - I'm currently working on ...
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### I'm Mortadha a Hardware Expert and a Full-Stack Software [Backend|Frontend Developer]
 - I'm currently - Technical Project Manager of <a align="center" href="https://www.network-lab.eu/">NetworkLab EU</a> (_Hardware Incubator_)
-- I'm currently learning AI , basics of Devops & microservice architecture 
+- I'm currently learning AI ...
 - Reach me on LinkedIn! <a align="center" href="https://www.linkedin.com/in/mortadhadahmani/"><br><img align="center" alt="LinkedIn" height="40px"  src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/in2.jpg" /></a>
 
 --------------------------------------------------------------------------------------------------------------- 
