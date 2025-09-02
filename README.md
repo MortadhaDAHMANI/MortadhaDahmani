@@ -49,11 +49,11 @@ Here are some ideas to get you started:
   <img align="left" alt="STM32" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/stm32.png" />
   <img align="left" alt="ST" height="43px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/st2.jpeg" />
   <img align="left" alt="Nordic" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/nordic.png" />
-  <img align="left" alt="SiliconLab" height="40px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/si.png" />
+  <img align="left" alt="SiliconLab" height="30px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/si.png" />
   
-  <img align="left" alt="Cobham" height="30px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/cobham.png" />
-  <img align="left" alt="Multitech" height="30px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/mul.png" />
-  <img align="left" alt="Multitech" height="30px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/niagara.png" />
+  <img align="left" alt="Cobham" height="25px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/cobham.png" />
+  <img align="left" alt="Multitech" height="25px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/mul.png" />
+  <img align="left" alt="Multitech" height="25px" src="https://github.com/MortadhaDAHMANI/MortadhaDahmani/blob/main/niagara.png" />
   </center>
 <!--
 ---------------------------------------------------------------------------------------------------------------
